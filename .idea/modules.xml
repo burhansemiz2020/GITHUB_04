@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Homework01.iml" filepath="$PROJECT_DIR$/Homework01.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/GITHUB04.iml" filepath="$PROJECT_DIR$/GITHUB04.iml" />
+>>>>>>> b2f624619d9d863c8bc95b9964757fc75e698556
     </modules>
   </component>
 </project>
