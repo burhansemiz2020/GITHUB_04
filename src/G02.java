@@ -10,6 +10,7 @@ git remote add origin https://github.com/burhansemiz2020/GITHUB04.git
 git push -u origin main
          */
         System.out.println("Islem ekleyin");
+        System.out.println("HEAD");
 
     }
 }
