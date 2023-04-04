@@ -11,6 +11,7 @@ git push -u origin main
          */
         System.out.println("Islem ekleyin");
         System.out.println("HEAD");
+        System.out.println("Master");
 
     }
 }
